@@ -1,6 +1,7 @@
 [![Header](https://github.com/WitherWeb/WitherWeb/blob/main/assets/фон%20для%20github.jpg)](https://github.com/WitherWeb)
 
-## I am an aspiring HTML, CSS, JavaScript, React developer. I am constantly studying various technologies on my own, studying at Geek Brains courses in the direction of "Web developer".
+## About me
+ I am an aspiring HTML, CSS, JavaScript, React developer. I am constantly studying various technologies on my own, studying at Geek Brains courses in the direction of "Web developer".
 
 ## Languages and Tools
 
