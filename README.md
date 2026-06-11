@@ -11,4 +11,4 @@
 
 ## Follow me
 
-[![vk](https://img.shields.io/badge/-Vkontakte-2f353b?style=for-the-badge&logo=vk)](https://vk.com/id146101570) [![telegram](https://img.shields.io/badge/-telegram-2f353b?style=for-the-badge&logo=telegram)](https://t.me/whitherweb) [![Whatsapp](https://img.shields.io/badge/Whatsapp-89608695625-2f353b?style=for-the-badge&logo=Whatsapp)](https://vk.com/id146101570)
+[![vk](https://img.shields.io/badge/-Vkontakte-2f353b?style=for-the-badge&logo=vk)](https://vk.com/id146101570) [![telegram](https://img.shields.io/badge/-telegram-2f353b?style=for-the-badge&logo=telegram)](https://t.me/whitherweb)
